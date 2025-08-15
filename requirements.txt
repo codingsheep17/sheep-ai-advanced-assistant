@@ -1,0 +1,5 @@
+mysql-connector-python, import mysql.connector
+requests
+python-dotenv
+pyttsx3
+os
